@@ -6,6 +6,3 @@ def str_func(input_string):
 def str_title(input_string):
     """Функция возвращает строку, делая первые буквы слов в предложении заглавными"""
     return input_string.title()
-
-print(str_func("wow"))
-print(str_title("hello world"))
